@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.takeuse.hack2.MainActivity" >
+
+    <item
+        android:id="@+id/action_save"
+        android:showAsAction="always"
+        android:title="@string/action_save"/>
+
+</menu>

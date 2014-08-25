@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hack2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_save">Save</string>
+    
+    <string name="hint_enter_title">Enter Title</string>
+    <string name="hint_enter_user_name">Enter User Name</string>
+    <string name="hint_enter_password">Enter Password</string>
+    <string name="hint_enter_url">Enter Url</string>
+    <string name="hint_enter_notes">Enter Notes</string>
+
+    <string name="lbl_please_wait">Please wait....</string>
+    
+    <string name="lbl_title">Title</string>
+    <string name="lbl_user_name">User Name</string>
+    <string name="lbl_user_password">Password</string>
+    <string name="lbl_notes">Notes</string>
+</resources>
